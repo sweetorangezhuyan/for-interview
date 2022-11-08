@@ -15,6 +15,6 @@ $X∈R^{(H×sw)×C}$ ，$d_k=C/K$,$K$是多头的头
 ## CSwin block
 ![picture](images/block.png)
 ![picture](images/block_f.png)
-##结构
+## 结构
 ![picture](images/architecture.png)
 ![picture](images/different_ar.png)
