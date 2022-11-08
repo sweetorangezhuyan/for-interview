@@ -1,5 +1,5 @@
 # CSWin
-![picture](images/cswin-model.png){ :height="100px" width="400px"}
+![picture](images/cswin-model.png){:height="100px" width="400px"}
 ## compare with self-attention
 1.使用Cross-Shaped Window自注意力取代自注意力机制
 2.LePE 位置编码
