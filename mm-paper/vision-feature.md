@@ -1,5 +1,5 @@
 # CSWin
-![picture](images/cswin-model.png)
+![picture](images/cswin-model.png){:height="50%" width="50%"}
 ## compare with self-attention
 1.使用Cross-Shaped Window自注意力取代自注意力机制
 2.LePE 位置编码
@@ -17,7 +17,7 @@ $X∈R^{(H×sw)×C}$ ，$d_k=C/K$,$K$是多头的头
 ![picture](images/block_f.png)
 ## 结构
 ![picture](images/architecture.png)
-![picture](images/different_ar.png =100*100)
+![picture](images/different_ar.png)
 # R(2+1)D video understanding model
 2维卷积后跟1维卷积,把空间和时间分解到两个阶段
 
