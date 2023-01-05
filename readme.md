@@ -1,4 +1,4 @@
-## git 提交流程
+## git 提交提交修改后的文件到github
 git status
 
 git add .
